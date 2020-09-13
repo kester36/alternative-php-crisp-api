@@ -1,0 +1,13 @@
+{
+    "name": "kester36/alternative-php-crisp-api",
+    "description": "Alternative Crisp PHP API Client",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Petro Shpyhotskyi",
+            "email": "shpyhotskyi@gmail.com"
+        }
+    ],
+    "require": {}
+}
